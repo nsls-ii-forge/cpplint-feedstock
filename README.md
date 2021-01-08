@@ -5,9 +5,11 @@ Home: https://github.com/cpplint/cpplint
 
 Package license: BSD-3-Clause
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/nsls-ii-forge/cpplint-feedstock/blob/master/LICENSE.txt)
 
 Summary: A publicly maintained version of Google's static analysis tool for C/C++ code.
+
+Development: https://github.com/cpplint/cpplint
 
 Cpplint is a command-line tool to check C/C++ files for style issues
 following Google's C++ style guide. Cpplint is developed and maintained by
